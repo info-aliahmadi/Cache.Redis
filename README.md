@@ -1,4 +1,4 @@
-# 
+# EF Second Level Cache In ASP.NET 7
 This project is a sample ASP.NET API project that demonstrates how to use EF Second Level Cache with Redis and InMemory cache providers and automate caching LINQ queries.
 
 ## Introduction
