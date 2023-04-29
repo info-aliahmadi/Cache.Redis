@@ -21,6 +21,7 @@ This will download and install all the required NuGet packages, including the ne
 To use EF Second Level Cache with Redis and InMemory cache providers, you'll need to add the necessary configuration settings to the appsettings.json file. Here's an example configuration:
 
 ```bash
+"CacheProvider": "redis", // or inmemory (or empty for value if you don't want to using cache provider)
 "easycaching": {
     "redis": {
       "MaxRdSecond": 120,
