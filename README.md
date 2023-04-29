@@ -76,10 +76,15 @@ In this example, we're using the Cachable attribute to cache the results of the 
 
 # Built With
 ASP.NET Core - A cross-platform, high-performance, open-source framework for building modern, cloud-based, Internet-connected applications.
+
 Entity Framework Core - A lightweight, extensible, open-source and cross-platform ORM for .NET.
+
 EF Second Level Cache - 
+
 InMemoryCache - An in-memory cache implementation provided by the ASP.NET Core framework.
+
 Redis - A popular in-memory key-value data store.
+
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
